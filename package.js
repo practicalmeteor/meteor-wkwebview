@@ -18,13 +18,13 @@ Cordova.depends({
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
 
-  api.use(['coffeescript', 'practicalmeteor:loglevel']);
+  api.use(['coffeescript', 'practicalmeteor:loglevel@1.2.0_1']);
 
   api.addFiles('wkwebview.coffee');
 });
 
 Package.onTest(function(api) {
-  api.use(['coffeescript', 'practicalmeteor:loglevel', 'tinytest', 'practicalmeteor:wkwebview']);
+  api.use(['coffeescript', 'practicalmeteor:loglevel@1.2.0_1', 'tinytest', 'practicalmeteor:wkwebview']);
 
   api.addFiles('wkwebview-tests.coffee', 'client');
 });
