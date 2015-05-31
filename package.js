@@ -13,7 +13,7 @@ Package.describe({
 Cordova.depends({
   // the cordova plugin built by Meteor Core team that "emulates a server" on
   // the mobile device. Serving the files and checking for the HCP updates.
-  //'com.meteor.cordova-update': 'https://github.com/practicalmeteor/com.meteor.cordova-update/tarball/a7e98f27a26b727288da81dcfd8047eccb5f6036',
+  'com.meteor.cordova-update': 'https://github.com/practicalmeteor/com.meteor.cordova-update/tarball/a7e98f27a26b727288da81dcfd8047eccb5f6036',
   'com.telerik.plugins.wkwebview': 'https://github.com/practicalmeteor/WKWebView/tarball/4a1d577dc790cd8e2156c389a73506d22deff98c'
 });
 
