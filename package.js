@@ -24,7 +24,7 @@ Package.onUse(function(api) {
 });
 
 Package.onTest(function(api) {
-  api.use(['coffeescript', 'practicalmeteor:loglevel', 'tinytest', 'wkwebview']);
+  api.use(['coffeescript', 'practicalmeteor:loglevel', 'tinytest', 'practicalmeteor:wkwebview']);
 
   api.addFiles('wkwebview-tests.coffee', 'client');
 });
