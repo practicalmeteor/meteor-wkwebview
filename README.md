@@ -14,3 +14,7 @@ meteor add cordova:com.meteor.cordova-update@https://github.com/practicalmeteor/
 # This package simply includes the wkwebview cordova plugin
 meteor add pracitalmeteor:wkwebview
 ```
+
+## Important note about filling issues
+
+This package is using a fork of Telerik's wkwebview cordova plugin. If you have non-meteor related iOS issues, please check in [their repo](https://github.com/Telerik-Verified-Plugins/WKWebView) first if a similar issue has been filed, and once the issue is fixed, I will merge the fix into my fork. So, please only create "please merge" issues here after they have been fixed in their repo.
