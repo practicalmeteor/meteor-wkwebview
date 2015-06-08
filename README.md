@@ -12,7 +12,7 @@ Due to a meteor [bug](https://github.com/meteor/meteor/issues/4486), installatio
 meteor add cordova:com.meteor.cordova-update@https://github.com/practicalmeteor/com.meteor.cordova-update/tarball/a7e98f27a26b727288da81dcfd8047eccb5f6036
 
 # This package simply includes the wkwebview cordova plugin
-meteor add pracitalmeteor:wkwebview
+meteor add practicalmeteor:wkwebview
 ```
 
 ## Important note about filling issues
