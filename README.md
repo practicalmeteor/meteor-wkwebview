@@ -1,3 +1,7 @@
+# Depreciation / Help Needed Notice
+
+I'm out of mobile development (for now), and I just don't have the time to maintain packages I'm not using internally. I'm also not an Objective C developer, and have asked for help from the community maintaining this package together with an Objective C developer, but haven't found one, as of yet. If anyone wants to pick up the slack, I'm willing to run them through the code, and get them up to speed on the package internals, so they can continue maintaining it.
+
 ## practicalmeteor:wkwebview
 
 Switches your meteor ios app to WKWeb​View on iOS 8+, which is significantly faster and better than the old, clunky, memory leaking UIWebView.
