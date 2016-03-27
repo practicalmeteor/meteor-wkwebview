@@ -1,6 +1,6 @@
-# Depreciation / Help Needed Notice
+# Depreciation Notice
 
-I'm out of mobile development (for now), and I just don't have the time to maintain packages I'm not using internally. I'm also not an Objective C developer, and have asked for help from the community maintaining this package together with an Objective C developer, but haven't found one, as of yet. If anyone wants to pick up the slack, I'm willing to run them through the code, and get them up to speed on the package internals, so they can continue maintaining it.
+This package is depreceated in favor of the official support for wkwebview available in meteor 1.3. See [here](https://forums.meteor.com/t/meteor-1-3-beta-modules-mobile-and-testing-now-available/18186) for more info.
 
 ## practicalmeteor:wkwebview
 
